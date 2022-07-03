@@ -1,41 +1,49 @@
 {
   "images" : [
     {
+      "filename" : "external-Too-Much-miscellany-texts-and-badges-bearicons-gradient-bearicons-5.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "icons8-too-much-64.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "external-Too-Much-miscellany-texts-and-badges-bearicons-gradient-bearicons-4.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "external-Too-Much-miscellany-texts-and-badges-bearicons-gradient-bearicons-2.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "external-Too-Much-miscellany-texts-and-badges-bearicons-gradient-bearicons-3.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "external-Too-Much-miscellany-texts-and-badges-bearicons-gradient-bearicons.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "external-Too-Much-miscellany-texts-and-badges-bearicons-gradient-bearicons-1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "icons8-too-much-65.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -69,6 +77,11 @@
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
     },
     {
       "idiom" : "ipad",
